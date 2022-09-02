@@ -1,10 +1,12 @@
 # Assessment
 
-Just like beginning a project, we begin this course with nothing completed yet; similarly, we begin the semester with no points, just yet. As assignments are assigned and returned we will slowly build points towards the 1000 possible points. In keeping with this philosophy, each assignment adds to your total score. In more traditional courses, one might begin with 100% and have their grade slowly chipped down to a final score. Instead in this course, we are building our grades up in concert with our knowledge about machine learning. View each assignment as a reflection of the depth of your machine learning knowledge base. 
+This semester, we will use a version of ungrading that culminates in a final learning portfolio. In this alternative grading strategy, you will be completing assignments (like labs, homeworks, and projects) as you normally would, but there are no explicit grades (like points or percentages). Instead you will get feedback on your submitted work that you will use to build your final portfolio. 
+
+Just like beginning a project, we begin this course with nothing completed yet and there is nothing to add to our learning portfolio, just yet. As assignments are assigned and returned we will slowly build learning artifacts and feedback on our work in concert with our knowledge about machine learning. In keeping with this philosophy, we view each assignment as a part of your growing machine learning knowledge base. 
 
 ## Grading Practicalities
 
-There will be three kinds of grading for this course: 1) rubrics (supported by the checkpoint system), 2) on completion, and 3) with student input. 
+There are no numerical grades in this course. Instead, 
 
 1. Homework assignments and projects will be graded under typical rubric grading. Depending on the assignment, detailed rubrics may be issued before the assignment is submitted, while in other cases only general outlines will be given in advance of the assignment. 
 2. Labs will be graded on completion. Note that completion here means that the work was completed in good faith. The act of turning in something does not guarantee a score of completion. But any work that is clearly done in good faith will be marked as complete and will earn full marks.
