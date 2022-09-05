@@ -20,6 +20,7 @@ The work you submit should be your own and created by you, unless explicitly lis
 - Do not share nor give your work with other students; instead, offer to discuss the big ideas of the task at hand. 
 - Do not look at someone else’s work (including online solutions); instead, ask if you could talk with them about your ideas and share where you are getting stuck.
 - Acknowledge those you talk or work with at the top of every assignment. I will not dock points for getting acknowledged help from others. If you generate a solution or an argument with someone, in addition to acknowledging that person, recreate the solution or argument on your own in your own words. 
+- While you are welcome to work with others, only submit work that you could recreate on your own **without** the person (or people) that you worked with. This means that you would retry the questions without looking at the code you built in collaboration with others. 
 
 If you think you may have crossed the line between helping and copying, please talk to me. Do not let me discover that the line was crossed. If a violation of the Honor Code is suspected, the student will be informed and will be given the opportunity to meet with the instructor. As recommended by the Academic Honor Board and in keeping with Smith tradition, the student will be given time to self-report, and after such time, the suspected violation will be reported to the Academic Honor Board by the instructor. 
 

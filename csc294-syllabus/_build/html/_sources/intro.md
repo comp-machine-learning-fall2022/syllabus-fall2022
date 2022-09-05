@@ -23,9 +23,9 @@ There are a few questions motivating our course work:
 ### Course Learning Objectives
 
 By the end of the course, students will be able to...
-1. Detail differences between supervised and unsupervised learning tasks and methods, as well as discuss the issues when dealing with large scale data    
+1. Detail differences between supervised and unsupervised learning tasks and methods
 2. Implement a variety of machine learning algorithms in python and assess their efficacy   
-3. Compare models, and assess the efficacy of machine learning algorithms and results using evaluation metrics and in terms of the context of the data's domain    
+3. Compare and assess the efficacy of machine learning algorithms and results using evaluation metrics and in terms of the context of the data's domain    
 4. Develop an appreciation for ethical implications of machine learning algorithms   
 5. Work iteratively and reflectively to apply machine learning techniques to a data set of interest with informative documentation, written for a variety of audiences 
 
@@ -78,10 +78,10 @@ keeping with that belief, there are a few tasks in this document that will
 help us build our course community. 
 
 :::{note}
-Please read the syllabus this week and complete these tasks to help shape our community. If you have questions about the syllabus, please ask them!
+Please read the syllabus this week and complete these tasks to help shape our community. If you have questions about the syllabus, please ask them on our [class's first week's sli.do](https://bit.ly/3cNs0q1)
 :::
 
-This web version of the syllabus has a menu and search bar on the left, but the syllabus is also available as one [pdf document](https://github.com/comp-machine-learning-spring2022/syllabus-spring2022/raw/main/csc294-syllabus/_build/pdf/csc294-spring2022.pdf).
+This web version of the syllabus has a menu and search bar on the left, but the syllabus is also available as one [pdf document]().
 
 ## Course Acknowledgements 
 
