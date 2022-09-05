@@ -1,6 +1,6 @@
 # Resources Supporting CSC 294
 
-Here is a list of additional resources supporting our class. Information about your instructor can be found on the [logistics page](https://comp-machine-learning-spring2022.github.io/syllabus-spring2022/logistics.html#instructor-information). 
+Here is a list of additional resources supporting our class. Information about your instructor can be found on the [logistics page](). 
 
 ## Inclusivity for all students
 
@@ -31,7 +31,19 @@ Please note that for anything denoted as an E-Book at the library, there are lim
 :::
 
 
-## Pedagogical Partner
+## CS TAs
 
-Kathleen is my pedagogical partner this semester. She took CSC294 last spring and will be helping to redesign some of the labs and the final project. If you would like to provide feedback regarding course content or structure to a fellow student (and anonymously if you wish), please reach out to Kathleen (khablutzel@smith.edu or on slack).
+On Thursdays from 7pm to 9pm, Kathleen Hablutzel will be working the CS Forum giving preference to questions from our course. 
+
+However, this semester there are several CS TAs in the CS forum who have experience with this course. Given that the CS forum operates primarily to offer general computer science support, this is a great place to plan to meet up with others to work on course work. But I would not expect personal tutoring every night of the week. 
+
+The CS forum is in Ford 241 and Ford 342 during the following days and times. The shifts with a * are the days that have at least one TA with familiarity with this course: 
+
+ - Sundays 1-3 PM *
+ - Sundays 7-9 PM *
+ - Mondays 7-9 PM 
+ - Tuesdays 7-9 PM *
+ - Wednesdays 7-9 PM *
+ - Thursdays 7-9 PM * **Explicit Preference to 294**
+
 
