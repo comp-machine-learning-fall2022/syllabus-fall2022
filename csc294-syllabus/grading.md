@@ -41,8 +41,8 @@ In addition to the final portfolio, you will write a reflective essay on what yo
 However, for each flat grade, the below is a general completion expectation. Put another way, the below matrix is _guide_ for how much work of each type should be _completed in good faith_ for each of the listed grades. _Completed in good faith_ does not mean that each assignment is perfect, but rather that you tried to complete each part. Note that pluses and minuses are not specified. 
 
 | Letter Grade  | Labs | Forms | Homeworks | Projects | Final Portfolio |
-| Total  Number |  25  |   13  |     6     |   3      |         1       |
 | :----:      | :----: | :----: |  :----:  |  :----:  |      :----:     |
+| Total  Number |  25  |   13  |     6     |   3      |         1       |
 | A             |  20  |   10  |     5     | 2 + Outline |      1       |
 | B             |  16  |    8  |     4     |   2      |         1       |
 | C             |  12  |    6  |     3     |   1 + Outline |    1       |
