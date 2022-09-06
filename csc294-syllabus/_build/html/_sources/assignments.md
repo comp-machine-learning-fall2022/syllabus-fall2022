@@ -1,9 +1,9 @@
 # Course Structure 
 
-Each week will be a mix of reading about machine learning topics, discussing and debating concepts, implementing algorithms and ideas in code, and constant reflection about our learning and professional development. All best by dates are posted on the Detailed Course Schedule. 
+Each week will be a mix of reading about machine learning topics, discussing and debating concepts, implementing algorithms and ideas in code, and constant reflection about our learning and professional development. All due dates are posted on the Detailed Course Schedule. 
 
 :::{note}
-The [Detailed Course Schedule]() lists the best by dates for the course. To view it, please log into your **Smith** account. 
+The [Detailed Course Schedule](https://docs.google.com/document/d/1Rmef9cny5FipcyJ3z2qc-X6IW8TvC-SLqFlYmOKvsCQ/edit?usp=sharing) lists the best by dates for the course. To view it, please log into your **Smith** account. 
 :::
 
 ## Assignments
@@ -37,7 +37,7 @@ There are three projects for the semester. The primary goal of these projects is
 
 ## Weekly flow for the course 
 
-Each week, you will have readings to prepare for class as well as two labs. Spread over the semester are six homework assignments and two projects. The course will operate as follows:
+Each week, you will have readings to prepare for class as well as two labs. Spread over the semester are six homework assignments and three projects. The course will operate as follows:
 
 | Day    | Course Preparation and/or Activity | Due Date |
 | ----------- | ----------- | ----------- |
@@ -46,7 +46,7 @@ Each week, you will have readings to prepare for class as well as two labs. Spre
 | Friday     | (no class) | Homework or Project |
 
 :::{note}
-The [Detailed Course Schedule]() lists the best by dates for the course. To view it, please log into your **Smith** account. 
+The [Detailed Course Schedule](https://docs.google.com/document/d/1Rmef9cny5FipcyJ3z2qc-X6IW8TvC-SLqFlYmOKvsCQ/edit?usp=sharing) lists the best by dates for the course. To view it, please log into your **Smith** account. 
 :::
 
 ### Workload
