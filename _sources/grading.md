@@ -4,6 +4,10 @@ This semester, we will use a version of ungrading that culminates in a final lea
 
 Just like beginning a project, we begin this course with nothing completed yet, and so there is nothing to add to our learning portfolio, just yet. As assignments are assigned and returned we will slowly build learning artifacts and feedback on our work in concert with our knowledge about machine learning. In keeping with this philosophy, we view each assignment as a part of your growing machine learning knowledge base. 
 
+:::{note}
+We're going to be using ungrading this semester. The rest of this page explains the details behind this assessment structure. 
+:::
+
 ## Grading Practicalities
 
 There are no numerical grades in this course. Instead, assignments will be completed with opportunities for feedback and reflection. There are three ways that we will do this:  
@@ -38,16 +42,21 @@ The course builds towards a learning portfolio, which will serve as the basis fo
 
 In addition to the final portfolio, you will write a reflective essay on what you have learned in the course and ultimately assign yourself a grade. Your justification for your grade will draw on evidence provided in the final portfolio, but it can also be augmented with a discussion about your general engagement with the course. This means that instead of me--the instructor--assigning your final grade, you will be self-assigning your final grade. 
 
-However, for each flat grade, the below is a general completion expectation. Put another way, the below matrix is _guide_ for how much work of each type should be _completed in good faith_ for each of the listed grades. _Completed in good faith_ does not mean that each assignment is perfect, but rather that you tried to complete each part. Note that pluses and minuses are not specified. 
+#### Completion expectation
+
+Broadly speaking, you will be giving your work over the whole semester a grade. That being said, for each flat grade, the below is a general completion expectation. 
+
+The below matrix is _guide_ for how much work of each type should be _completed in good faith_ for each of the listed grades. _Completed in good faith_ does not mean that each assignment is perfect, but rather that you tried to complete each part. 
 
 | Letter Grade  | Labs | Forms | Homeworks | Projects | Final Portfolio |
 | :----:      | :----: | :----: |  :----:  |  :----:  |      :----:     |
-| Total  Number |  25  |   13  |     6     |   3      |         1       |
+| **Total Number in the course** | **25** | **13** |  **6** | **3** | **1** |
 | A             |  20  |   10  |     5     | 2 + Outline |      1       |
 | B             |  16  |    8  |     4     |   2      |         1       |
 | C             |  12  |    6  |     3     |   1 + Outline |    1       |
 | D             |   8  |    4  |     2     |   1      |         1       |
 
+Note that pluses and minuses are not specified, but certainly one can earn those grades. 
 
 #### Translating to the "real world"
 
@@ -67,7 +76,7 @@ With the exception of Monday September 26, when this due date is pushed to Wedne
 
 The **final learning portfolio is due on December 20 at 5pm.**
 
-All of the course due dates are listed on the [Detailed Course Schedule](). This is a great moment to note these dates your system for keeping track of your work (ie. planner, calendar, etc). (If you want to really stretch here, do this for all assignments in all your courses.) 
+All of the course due dates are listed on the [Detailed Course Schedule](https://docs.google.com/document/d/1Rmef9cny5FipcyJ3z2qc-X6IW8TvC-SLqFlYmOKvsCQ/edit?usp=sharing). This is a great moment to note these dates your system for keeping track of your work (ie. planner, calendar, etc). (If you want to really stretch here, do this for all assignments in all your courses.) 
 
 
 #### Flexibility
