@@ -48,13 +48,13 @@ Broadly speaking, you will be giving your work over the whole semester a grade. 
 
 The below matrix is _guide_ for how much work of each type should be _completed in good faith_ for each of the listed grades. _Completed in good faith_ does not mean that each assignment is perfect, but rather that you tried to complete each part. 
 
-| Letter Grade  | Labs | Forms | Homeworks | Projects | Final Portfolio |
-| :----:      | :----: | :----: |  :----:  |  :----:  |      :----:     |
-| **Total Number in the course** | **25** | **13** |  **6** | **3** | **1** |
-| A             |  20  |   10  |     5     | 2 + Outline |      1       |
-| B             |  16  |    8  |     4     |   2      |         1       |
-| C             |  12  |    6  |     3     |   1 + Outline |    1       |
-| D             |   8  |    4  |     2     |   1      |         1       |
+| Letter Grade  | Labs | Homeworks | Projects | Final Portfolio |
+| :----:      | :----: |   :----:  |  :----:  |      :----:     |
+| **Total Number in the course** | **23** |  **6** | **2** | **1** |
+| A             |  18  |     5     | 1 + Outline |      1       |
+| B             |  15  |     4     |   1         |         1       |
+| C             |  11  |     3     |   Outline   |    1       |
+| D             |   7  |     2     |   Outline   |         1       |
 
 Note that pluses and minuses are not specified, but certainly one can earn those grades. 
 
